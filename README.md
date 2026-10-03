@@ -1,3 +1,6 @@
+![Banner](banner.png)
+
+# 🚀 MY UNIQUE PocketSmart AI - Next-Gen Version
 # PocketSmart AI 💜
 
 ### Your Smart Budget & Recommendation Assistant
